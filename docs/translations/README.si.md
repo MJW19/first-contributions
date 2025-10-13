@@ -1,5 +1,4 @@
 [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -22,7 +21,7 @@
 
 දැන් ඔයා fork කරගත්ත repository එක ඔයාගේ computer එකට clone කරගන්න ඕන. ඒකට, ඔයාගේ GitHub ගිණුමට යන්න. Fork කරගත්ත repository එක open කරලා, 'Code' button එක click කරලා, එන URL එක copy කරගන්න.
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="URL එක clipboard එකට copy කරගන්න" />
+දැන් ඔබේ පරිගණකට fork කරපු repository ය ක්ලෝන කරන්න. ඔබට ඔබගේ GitHub ගිණුමට ගොස් fork කරපු repository විවෘත කර code බොත්තම ක්ලික් කර,පසුව SSH ටැබය මත ක්ලික් කිරීමෙන් ලැබෙන url එක පසුරු පුවරුවට (clipboard) පිටපත් කිරීමෙන් මෙය කළ හැක.
 
 දැන් ඔයාගේ computer එකේ terminal (command prompt) එක open කරලා, මේ git command එක run කරන්න:
 
